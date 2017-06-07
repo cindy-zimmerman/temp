@@ -7,5 +7,7 @@
 * Have individuals working with pay, where the pay is dependent upon title and contract set by the directors.
 
 
-## Five major communities' (Tech, Law, Econ, Trade and Publishing):
+## Five major communities (Tech, Law, Econ, Trade and Publishing):
+
 * The board of directors will meet with the MiZim foundation once a week to discuss progress
+* Will be given grants to create and explore new ideas and concepts
