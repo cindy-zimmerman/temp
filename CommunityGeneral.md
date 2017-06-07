@@ -4,6 +4,7 @@
 * Have smart contracts to help govern their community.
 * Have an UI so that it's user friendly to the end-user.
 * Appoint a board of directors that will meet at minimum once a week to discuss issues, progress and future endevors.
+* Have individuals working with pay, where the pay is dependent upon title and contract set by the directors.
 
 
 ## Five major communities' (Tech, Law, Econ, Trade and Publishing):
